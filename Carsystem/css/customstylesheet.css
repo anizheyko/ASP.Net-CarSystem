@@ -1,0 +1,21 @@
+﻿
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+.center {
+    text-align: center;
+    border: 1px black;
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
+
+#footer1 {
+    background: #762b00;
+}
+
+#footer2 {
+    background: #531f00;
+}
